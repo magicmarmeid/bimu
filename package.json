@@ -1,0 +1,1 @@
+{ "name": "bimu", "version": "1.0.0", "description": "Proyecto Node.js para conectar con Firebase Studio", "main": "index.js", "type": "module", "scripts": { "start": "node index.js" }, "author": "", "license": "MIT", "dependencies": { "firebase-admin": "^11.10.1", "firebase": "^10.12.2" } }
